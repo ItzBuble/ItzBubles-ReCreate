@@ -458,7 +458,7 @@
     "oldStyleRabbitDrops": false,
     "oldStyleStrayDrops": false,
     "oldStyleHuskDrops": false,
-    "blockWithSwordOnShield": false,
+    "blockWithSwordOnShield": true,
     "oldSwordBlocking": false,
     "attackWhileSwordBlocking": false,
     "swordBlockDamageReduction": 50,
